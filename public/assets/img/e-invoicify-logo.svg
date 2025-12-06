@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 1000 600">
+  <defs>
+    <style>
+      .logo-text { font-family: Arial, sans-serif; font-weight: bold; fill: #8080ff; }
+    </style>
+  </defs>
+  <rect width="1000" height="600" x="0" y="0" fill="transparent"/>
+  <g>
+    <!-- Icon/Box -->
+    <rect width="333.33" height="333.33" rx="13.33" ry="13.33" x="147.69" y="185.04" fill="#8080ff" transform="matrix(0.8463630116474136,0,0,0.8463630116474136,0,15.131418208346759)"/>
+    <path d="M324.52 411.58L304.20 411.58L304.20 261.58L324.52 261.58L324.52 411.58Z" fill="white" transform="matrix(0.8463630116474136,0,0,0.8463630116474136,0,15.131418208346759)"/>
+    
+    <!-- Text: e-invoicify -->
+    <text x="450" y="350" class="logo-text" font-size="72" dominant-baseline="middle">e-invoicify</text>
+  </g>
+</svg>

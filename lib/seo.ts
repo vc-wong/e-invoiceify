@@ -12,11 +12,11 @@ export const ROOTKEYWORDS = [
 export const JSONLD = {
     "@context": "https://schema.org",
     "@type": "Website",
-    name: "Invoify",
+    name: "E-Invoicify",
     description: "An Invoice Generator Web App",
     keywords: ROOTKEYWORDS,
     url: BASE_URL,
-    image: "https://invoify.vercel.app/_next/static/media/invoify-logo.7ef8fa33.svg",
+    image: `${BASE_URL}/assets/img/e-invoicify-logo.svg`,
     mainEntityOfPage: {
         "@type": "WebPage",
         "@id": `${BASE_URL}/#website`,
