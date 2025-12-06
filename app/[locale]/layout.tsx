@@ -26,7 +26,7 @@ import { NextIntlClientProvider } from "next-intl";
 import { notFound } from "next/navigation";
 
 export const metadata: Metadata = {
-    title: "Invoify | Free Invoice Generator",
+    title: "e-Invoicify | Free e-Invoice Generator",
     description:
         "Create invoices effortlessly with Invoify, the free invoice generator. Try it now!",
     icons: [{ rel: "icon", url: Favicon.src }],
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
         canonical: BASE_URL,
     },
     authors: {
-        name: "Ali Abbasov",
+        name: "Vincent Wong",
         url: "https://aliabb.vercel.app",
     },
     verification: {
